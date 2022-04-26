@@ -326,7 +326,7 @@ document.write("El string resulta: " + sconcat);
 let suma = 0,tonum="",num=0;
 
 while(tonum != null){
-    tonum = prompt("Ingrese un número");//--Probar sacar esto
+    tonum = prompt("Ingrese un número");
     num = parseInt(tonum);
     
     if(tonum != null){
